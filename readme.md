@@ -10,8 +10,8 @@ This application allows users to register/login, browse exotic tour locations, a
 
 You can access the deployed versions of the backend and frontend below:
 
-- **Frontend**: [Link to your Vercel URL]
-- **Backend**: [Link to your Render URL]
+- **Frontend**: [https://travel-tour-client.vercel.app](https://travel-tour-client.vercel.app)
+- **Backend**: [https://travel-world-server.onrender.com](https://travel-world-server.onrender.com)
 
 ---
 
@@ -23,7 +23,7 @@ You can access the deployed versions of the backend and frontend below:
 | **Frontend**       | React, React Router, Reactstrap, Axios, React Icons        |
 | **Database**       | MongoDB Atlas                                              |
 | **Authentication** | JSON Web Token (JWT), bcryptjs                             |
-| **Styling**        | CSS3, Reactstrap (Bootstrap)                               |
+| **Styling**        | CSS3, TailWind Css                                         |
 | **Build Tools**    | Vite / React Scripts                                       |
 
 ---
